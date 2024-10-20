@@ -1,4 +1,6 @@
 ![Formula 1 Logo](https://github.com/user-attachments/assets/8d9d48a3-c0dd-41fe-892f-64c4d3052ac2)
+
+
 Welcome to the Formula 1 Data Analysis Repository! 🏎️
 Welcome, F1 fans and data enthusiasts alike! You’ve arrived at a repository dedicated to the exhilarating world of Formula 1 World Championship. As one of the most prestigious motorsport disciplines, F1 captivates millions of viewers globally—whether it’s live at the track, on TV, or through online streaming.
 
