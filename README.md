@@ -2,7 +2,7 @@
 
 
 Welcome to the Formula 1 Data Analysis Repository! 🏎️
-Welcome, F1 fans and data enthusiasts alike! You’ve arrived at a repository dedicated to the exhilarating world of Formula 1 World Championship. As one of the most prestigious motorsport disciplines, F1 captivates millions of viewers globally—whether it’s live at the track, on TV, or through online streaming.
+Welcome, F1 fans and data enthusiasts alike! You’ve arrived at a repository dedicated to the exhilarating world of the Formula 1 World Championship. As one of the most prestigious motorsport disciplines, F1 captivates millions of viewers globally—whether it’s live at the track, on TV, or through online streaming.
 
 Why This Repository? 🏁
 As a passionate data science enthusiast and long-time F1 aficionado with over two decades of following the sport, I aim to combine my two great loves here: data and racing. This repository is designed to provide comprehensive datasets and enable in-depth analysis of drivers and teams, focusing on their race results and other critical sessions throughout the seasons.
